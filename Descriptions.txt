@@ -1,11 +1,11 @@
-Text for challenge #77 \n
-text for challenge #78 \n
-Text for challenge #80 \n
-Text for challenge #81 \n
+Text for challenge #77 &
+text for challenge #78 &
+Text for challenge #80 &
+Text for challenge #81 &
 Text for Tapogadad \n
-Text for Challenge #83 \n
-Text for challenge #84 \n
-Text for challenge #85 \n
-Text for challenge #86 \n
-Text for challenge #87 \n
-Text for challenge #88 \n
+Text for Challenge #83 &
+Text for challenge #84 &
+Text for challenge #85 &
+Text for challenge #86 &
+Text for challenge #87 &
+Text for challenge #88 &
